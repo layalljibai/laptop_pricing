@@ -137,7 +137,7 @@ def loadAndPreprocessData():
 #-----------------------------------------------Main program-----------------------------------------------------------------------------------
 #Adjusting the display
 st.set_page_config(layout="wide")
-header_markdown = read_html_file("HTML/header.md")
+header_markdown = read_html_file("header.md")
 st.markdown(header_markdown, unsafe_allow_html=True)
 #Adding the left menu
 st.sidebar.title("Analysis Type")
