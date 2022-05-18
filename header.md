@@ -1,0 +1,2 @@
+<table  border-collapse="collapse" bordercolor='#FFFFFF' width='100%'><tr>
+<td   style="border: 0px  white; " ><img alt=''  width='auto' style='width:140px;height:100px;align-self: center;flex: 0 0 auto;box-shadow: none;-webkit-box-sizing: border-box;-moz-box-sizing: border-box;border: 0;height: auto;outline: none;text-decoration: none;vertical-align: bottom;box-sizing: border-box !important;max-height: 400px !important;' ></td><td style="border: 0px  white; "><h1>Laptop price Analytical Dashboard</h1></td></tr></table><hr>
