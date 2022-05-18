@@ -13,6 +13,8 @@ import plotly.graph_objs as go
 import plotly.offline as pyoff
 from plotly.subplots import make_subplots
 from pathlib import Path
+from plotly.graph_objects import Layout
+from plotly.validator_cache import ValidatorCache
 
 #-----------------------------------------------Defining needed functions-----------------------------------------------------------------------------------
 #Extracting X-axis and Y-axis screen resolution dimensions by splitting the string with the cross sign
