@@ -206,7 +206,6 @@ if config_option == 'Predict laptop price':
   from sklearn.tree import DecisionTreeRegressor
   from sklearn.ensemble import RandomForestRegressor,GradientBoostingRegressor,AdaBoostRegressor,ExtraTreesRegressor
   from sklearn.svm import SVR
-  from xgboost import XGBRegressor
   import pickle
 
   X = data.drop(columns=['Price'])
